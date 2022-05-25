@@ -1,5 +1,5 @@
 h3{
-    color: blue;
+    color: red;
     text-align: center;
     font-size: 30px;
 }
@@ -8,4 +8,10 @@ p{
 }
 body{
     background-color: blueviolet;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px crimson red;
+    border-radius: 50%;
 }
