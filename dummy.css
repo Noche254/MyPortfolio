@@ -1,0 +1,17 @@
+h3{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    text-align: justify;
+}
+body{
+    background-color: blueviolet;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px crimson red;
+    border-radius: 50%;
+}

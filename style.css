@@ -1,17 +1,17 @@
-h3{
-    color: red;
-    text-align: center;
-    font-size: 30px;
-}
-p{
-    text-align: justify;
+*{
+    margin: 0;
+    padding: 0;
 }
 body{
-    background-color: blueviolet;
+    background-image: url('Images/background.png');
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
-img{
-    width: 200px;
-    height: 200px;
-    border: 2px crimson red;
-    border-radius: 50%;
+.header img{
+    width: 130px;
+    height: 130px;
 }
